@@ -66,15 +66,20 @@ As a site owner, I want:
 * To direct traffic to my social network pages and increase popularity, personal brand and my fanbase. 
 * To advertise recent customers' positive experiences and increase referrals.
 * Prospective customers to hear my voice as soon as possible and increase the likelihood of them making a booking. 
-* To give perspective customers an insight into my career achievements
-* To give prospective customers an idea of the kind of person I am 
+* To give perspective customers an insight into my career achievements.
+* To give prospective customers an idea of the kind of person I am .
 
 
 ### User Requirements & Expectations
 
 ### Design Decisions
 
+When designing the website, I carried out some market research to see what the general design choices for similar websites. As part of my research, I found that there was generally an attractive look to websites with a floral theme throughout which is keeping to the wedding theme.
+
 #### Fonts 
+
+When deciding the fonts that I would use on this website, I searched through Google Fonts to see if there were any fonts that looked attractive and sleek and that would look good when styled. I decided have used Sans-Serif as a backup font in case Google Fonts does not work for any reason. 
+
 #### Icons
 #### Colours
 #### Images
@@ -82,7 +87,36 @@ As a site owner, I want:
 
 ## Features
 
+* A beautiful and effictive navigation through a navbar across each of the pages on the site. 
+* A pretty, almost floral design that will remind the user of a wedding setting.
+* A booking form which allows the prospective customer to contact the site owner easily. 
+* Links to the site owners social media pages through slick Font Awesome icons. This is a important as the site owner has a lot of content here which will give the prospective customers an in-depth view of the potential of the service provided in addition to what is on the website.  
+* The site email in case the site visitor wants to contact the site owner and not make a booking. These are also displayed with Font Awesome icons. 
+* A beautiful hero image of the site owner across the home page giving the site visitors positive emotions from the moment they land on the page. 
+* Youtube video of the site owner displayed on the home page so that the site visitors can instantly see the service they will be paying for. 
+* Audio file teasers of the music that will be sung at their weddings. 
+* Responsive, mobile first layout that also looks great on tablets and desktops. This was done by using bootstrap's grid layout.
+* Bootstrap buttons used to make a booking once the form is filled in. Bootstrap buttons to bring the site user to the 'Songs' page from 'Home'. 
+* An 'About Me' page which gives the potential customers an insight into what kind of person the site owner is as well as the previous work she has done as a singer and what the main achievements are.  
+* 
+
 ## Technologies
+
+The following technologies were used throughout the creation of the website: 
+
+* HTML5 - 
+* CSS3 - 
+* Bootstrap - 
+* Font Awesome -  
+* Google Fonts - 
+* Balsamic - 
+* Git - 
+* GitHub - 
+* GitPod - 
+* JQuery - 
+* Popper - 
+* Chrome Developer Tools - 
+
 
 ## Testing
 
