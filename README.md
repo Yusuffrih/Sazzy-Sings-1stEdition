@@ -81,8 +81,25 @@ When designing the website, I carried out some market research to see what the g
 When deciding the fonts that I would use on this website, I searched through Google Fonts to see if there were any fonts that looked attractive and sleek and that would look good when styled. I decided have used Sans-Serif as a backup font in case Google Fonts does not work for any reason. 
 
 #### Icons
+
+Icons used in this project were taken from Font Awesome. Icons were used to style the links to the social media pages and contact information in the footer.   
+
 #### Colours
+
+When deciding what the colour scheme of my website would be, I did some research. I visited websites that had a similar purpose/goal to this one, Wedding Singers websites. As previously mentioned, weddings generally tend to be floral themed. This drove the decision around what the colour scheme would be, while being cognisant to keep it simple and not distracting from the content. 
+
+For the font colours, I chose a crisp white #FFFFFF as it is extremely versatile and looks good. 
+
+I visited Coolors to find a colour scheme which matched what I wanted for the site. 
+
+
+
 #### Images
+
+The images used were original and were uploaded from my hardrive.
+
+
+
 #### Wireframes
 
 ## Features
