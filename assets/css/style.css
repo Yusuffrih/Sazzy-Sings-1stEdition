@@ -15,8 +15,27 @@ body {
 }
 
 
+/* ------------------------------------------------Navbar */
+
+.navbar {
+    font-weight: 800;
+}
 
 
+/* ------------------------------------------------Footer */
+
+
+.social-media {
+    display: inline-block;
+    list-style: none;
+}
+
+footer li {
+    display: inline-block;
+    font-size: 200%;
+    padding: 2px 4px 2px 0;
+    text-align: center;
+}
 
 
 
