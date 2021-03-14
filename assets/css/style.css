@@ -14,6 +14,14 @@ body {
     position: relative;
 }
 
+/* ------------------------------------------------Headings */
+
+h1 {
+    color:black;
+    font-weight: 500;
+    font-size: 250%;
+}
+
 
 /* ------------------------------------------------Navbar */
 
@@ -21,6 +29,35 @@ body {
     font-weight: 800;
 }
 
+
+/* ------------------------------------------------Hero Section */
+
+#hero-image {
+    margin: 0 auto;
+    background-image: url ("../images/SGM-sm.jpg");
+    background-color: #ffffff;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 360px;
+    border: black solid 1px;
+    border-radius: 10%;
+}
+
+
+/* ------------------------------------------------Testimonials */
+
+.customer-pic-container {
+    border-radius: 50%;
+    border: black solid 1px;
+    width: 100px;
+    height: 100px;
+}
+
+.quote-divider {
+    width: 50%;
+    text-align: center;
+}
 
 /* ------------------------------------------------Footer */
 
@@ -36,6 +73,5 @@ footer li {
     padding: 2px 4px 2px 0;
     text-align: center;
 }
-
 
 
