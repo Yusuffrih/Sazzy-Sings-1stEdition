@@ -14,7 +14,7 @@
     <!-- This is going to be the Navbar -->
     <header>
         <!-- navbar from bootstrap -->
-        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
             <div class="container-fluid">
                 <a class="navbar-brand" href="#">SGM</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -42,12 +42,18 @@
             </div>
         </nav>
     </header>
+    
     <!-- This is going to be the Hero Image section -->
-    <section>
-        <div id="hero-section">
-                <h1>Sarah Gordon Music</h1>       
+    <div class="container">
+        <div class="row" id="hero-section">
+            <div class="col-md-2"></div>
+            <div class="col-sm-12 col-md-8">
+                <h1>Sarah Gordon Music</h1>
+                <div id="hero-image"></div>
+            </div>
+            <div class="col-md-2"></div>    
         </div>
-    </section>
+    </div>
     
     <!-- This is the 'Hi There!' section -->
     <section>
@@ -56,17 +62,58 @@
             My name is Sarah Gordon and this is the section that I tell you a little bit of high level information about myself and what type of singer I am etc etc.
         </p>
     </section>
-    
-    <!-- This is going to be the "The sound" section -->
+    <br>
+
+    <!-- "See it for yourself" section -->
+    <section>
+        <h2>See it for Yourself!</h2>
+        <div class="video">
+            studio performance here
+        </div>
+        <div class="video">
+            studio performance here
+        </div>
+    </section>
+    <br>
+
+    <!-- "The sound" section -->
     <section>
         <h2>The Sound</h2>
         <p>Placeholder for audio files to go here</p>
     </section>
-    <!-- This is going to be the "See it for yourself" section -->
-    <section>
-        <h2>See it for Yourself!</h2>
-        <p>Placeholder for Youtube video display(s) to go here</p>
+    <br>
+    <!-- "Testimonials" section -->
+    <section class="container">
+        <h2>Testimonials</h2>
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="customer-pic-container">
+                    <img src="#" alt="customer-picture-1">
+                </div>
+                <h3>Customer 1</h3>
+                <p>
+                    This is where the customer gives their quote about how amazing a singer Sarah is and how beautiful she made their day. 
+                </p>
+            </div>
+            <hr class="quote-divider">
+        </div>
+        
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="customer-pic-container">
+                    <img src="#" alt="customer-picture-2">
+                </div>
+                <h3>Customer 1</h3>
+                <p>
+                    This is where the customer gives their quote about how amazing a singer Sarah is and how beautiful she made their day. 
+                </p>
+            </div>
+            <hr class="quote-divider">
+        </div>
+        
     </section>
+    <br>
+
     <footer>
         <ul class="social-media">
             <li><a><i class="fab fa-facebook-square"></i></a></li>
